@@ -67,8 +67,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
-
+    feature_image: assets/images/header.png
 # 6. Jekyll collections settings
 defaults:
   -
@@ -95,7 +94,7 @@ lang: en-GB # Set the site language
 title: "Madeleine S Gastonguay" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "An aspiring computational systems biologist and geneticist" # Site description and default description, also used in jekyll-seo-tag
-url: "https://MadeleineGastonguay.github.io./" # Site url, also used in jekyll-seo-tag
+url: "https://MadeleineGastonguay.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/MadeleineGastonguay/MadeleineGastonguay.github.io"
 email: "madeleine.gastonguay@uconn.edu"
