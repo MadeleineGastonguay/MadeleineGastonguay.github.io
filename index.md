@@ -3,7 +3,7 @@ title: About Me
 feature_text: |
   ## Madeleine S Gastonguay
   An aspiring computational systems biologist and geneticist
-feature_image: "assets/images/header.png"
+feature_image: assets/images/header.png
 excerpt: "Not sure what to put here."
 ---
 
