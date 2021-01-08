@@ -8,7 +8,7 @@ excerpt: "Not sure what to put here."
 ---
 
 
-![image](assets/logos/headshot.png){: style="float: left"}
+<img align="right" src= "assets/logos/headshot.png" width="50%">
 
 I am a recent graduate of the University of Connecticut Honors program with a degree in Applied Mathematics. Currently, I'm working in the [Churchill Lab](https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab) at The Jackson Laboratory in Bar Harbor, Maine while I figure out what I want to study in grad school. While at the university of connecticut, I completed my undergraduate thesis at the UConn Health Center's Center for Quantitative Medicine. In my down time I love hiking in Acadia National Park and singing at the top of my lungs.
 
