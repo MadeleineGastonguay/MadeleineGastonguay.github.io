@@ -95,7 +95,7 @@ title: "Madeleine S Gastonguay" # Site name or title, also used in jekyll-seo-ta
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "An aspiring computational systems biologist and geneticist" # Site description and default description, also used in jekyll-seo-tag
 url: "https://MadeleineGastonguay.github.io/" # Site url, also used in jekyll-seo-tag
-baseurl: "https://MadeleineGastonguay.github.io/"
+baseurl: ""
 repo: "https://github.com/MadeleineGastonguay/MadeleineGastonguay.github.io"
 email: "madeleine.gastonguay@uconn.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
