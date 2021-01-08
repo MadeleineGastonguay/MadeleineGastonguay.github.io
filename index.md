@@ -11,7 +11,7 @@ I am a recent graduate of the University of Connecticut Honors program with a de
 
 <img align="right" src= "assets/logos/headshot.png" width="50%">
 
-
+![head shot](assets/logos/headshot.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 <a class="twitter-timeline" href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw"
 data-width="400"
