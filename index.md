@@ -14,8 +14,8 @@ I am a recent graduate of the University of Connecticut Honors program with a de
 ### Twitter
 
 <a class="twitter-timeline" href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw"
-data-width="300"
-  data-height="300"
+data-width="400"
+  data-height="500"
   data-chrome="nofooter noborders">
 Tweets by MS_Gastonguay
 </a> 
