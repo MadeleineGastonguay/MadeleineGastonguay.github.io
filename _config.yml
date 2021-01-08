@@ -103,6 +103,7 @@ email: "madeleine.gastonguay@uconn.edu"
 # google_analytics_anonymize_ip: ''
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+date_format: "%-d %B %Y"
 
 # 8. Site favicons & manifest icons
 # favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
@@ -119,15 +120,18 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
+ - title: Projects
+  url: /projects/
+- title: Publications
+  url: /publications/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
+- title: Elements
+  url: /elements/
+
 
 navigation_footer:
-- title: Created by Madeleine Gastonguay
+- title: Created and Maintained by Madeleine S Gastonguay
   url: https://MadeleineGastonguay.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
