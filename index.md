@@ -13,10 +13,10 @@ I am a recent graduate of the University of Connecticut Honors program with a de
 
 ### Twitter
 
-<a class="twitter-timeline"
-  href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw"
-  data-width="300"
+<a class="twitter-timeline" href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw"
+data-width="300"
   data-height="300"
   data-chrome="nofooter noborders">
-Tweets by @TwitterDev
-</a>
+Tweets by MS_Gastonguay
+</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
