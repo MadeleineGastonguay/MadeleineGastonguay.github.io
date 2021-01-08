@@ -12,3 +12,7 @@ I am a recent graduate of the University of Connecticut Honors program with a de
 site.baseurl: {{ site.baseurl }}
 
 ![head shot](assets/logos/headshot.png)
+
+### Twitter
+
+<a class="twitter-timeline" href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw">Tweets by MS_Gastonguay</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
