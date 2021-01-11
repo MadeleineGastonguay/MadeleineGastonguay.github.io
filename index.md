@@ -7,8 +7,25 @@ feature_image: /assets/images/header.png
 excerpt: "Not sure what to put here."
 ---
 
+#avatar {
+    /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
+    background-image: {{site.url}}/assets/logos/headshot.png;
+    
+    /* make a square container */
+    width: 150px;
+    height: 150px;
 
-<img align="right" src= "assets/logos/headshot.png" width="50%" object-fit: cover  border-radius:50%>
+    /* fill the container, preserving aspect ratio, and cropping to fit */
+    background-size: cover;
+
+    /* center the image vertically and horizontally */
+    background-position: top center;
+
+    /* round the edges to a circle with border radius 1/2 container size */
+    border-radius: 50%;
+}
+
+<div id="avatar"></div>
 
 I am a recent graduate of the University of Connecticut Honors program with a degree in Applied Mathematics. Currently, I'm working in the [Churchill Lab](https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab) at The Jackson Laboratory in Bar Harbor, Maine while I decide what I would like to study in grad school. Durign my time at the University of Connecticut, I completed my undergraduate thesis at the UConn Health Center's Center for Quantitative Medicine with the [Computational Systems Medicine Team](http://veraliconalab.org/). In my down time I love hiking in Acadia National Park and singing with my A Cappella group.
 
