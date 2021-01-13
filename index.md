@@ -7,6 +7,7 @@ feature_image: /assets/images/header.png
 excerpt: "Not sure what to put here."
 ---
 
+![HEADER](assets/images/header.png)
 
 <img align="right" src= "assets/logos/headshot.png" width="50%">
 
