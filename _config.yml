@@ -185,4 +185,4 @@ scholar:
   details_layout: bibtex.html
   details_link:   Details
 
-  query: "@*"e
+  query: "@*"
