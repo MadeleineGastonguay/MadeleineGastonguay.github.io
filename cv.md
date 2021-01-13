@@ -1,7 +1,7 @@
 ---
 title: Publications
 feature_text: |
-  Selected publications and presentations
+  Curriculum Vitae
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Curriculum Vitae"
 aside: true
