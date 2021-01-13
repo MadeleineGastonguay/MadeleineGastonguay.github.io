@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Madeleine S Gastonguay
-  An aspiring quantitative systems biologist, geneticist, and/or pharmacologist
+  <span style='color: #e8dfe4;'> An aspiring quantitative systems biologist, geneticist, and/or pharmacologist </span>
 feature_image: /assets/images/header.png
 excerpt: "Not sure what to put here."
 ---
