@@ -7,6 +7,8 @@ excerpt: "Selected publications and presentations"
 aside: true
 ---
 
+{% bibliography %}
+
 # Heading 1
 
 ## Heading 2
