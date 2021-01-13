@@ -3,6 +3,8 @@ title: false
 styles: true
 ---
 
+@import "alembic";
+
 // Background colours
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
@@ -17,4 +19,3 @@ $hoverColour: #7e0596 !default;
 $focusColour: #a005bf !default;
 $captionColour: #c0b4c2 !default;
 
-@import "alembic";
