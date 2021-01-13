@@ -2,7 +2,7 @@
 title: Publications
 feature_text: |
   Curriculum Vitae
-feature_image: assets/images/header_4.jpeg 
+feature_image: /assets/images/header_4.jpeg 
 excerpt: "Curriculum Vitae"
 aside: true
 ---
