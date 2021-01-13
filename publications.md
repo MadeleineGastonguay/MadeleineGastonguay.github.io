@@ -2,7 +2,7 @@
 title: Publications
 feature_text: |
   Selected publications and presentations
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: assets/images/header_3.jpeg
 excerpt: "Selected publications and presentations"
 aside: true
 ---
