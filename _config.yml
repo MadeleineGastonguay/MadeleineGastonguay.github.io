@@ -125,6 +125,8 @@ navigation_header:
   url: /projects/
 - title: Publications
   url: /publications/
+- title: CV
+  url: /cv/
 #- title: Blog
 #  url: /blog/
 #- title: Elements
