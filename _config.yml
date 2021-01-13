@@ -124,10 +124,10 @@ navigation_header:
   url: /projects/
 - title: Publications
   url: /publications/
-- title: Blog
-  url: /blog/
-- title: Elements
-  url: /elements/
+#- title: Blog
+#  url: /blog/
+#- title: Elements
+#  url: /elements/
 
 
 navigation_footer:
