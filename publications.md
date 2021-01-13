@@ -2,7 +2,7 @@
 title: Publications
 feature_text: |
   Selected publications and presentations
-feature_image: assets/images/header_3.jpeg
+feature_image: /assets/images/header_3.jpeg
 excerpt: "Selected publications and presentations"
 aside: true
 ---
