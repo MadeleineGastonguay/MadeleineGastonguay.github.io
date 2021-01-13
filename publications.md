@@ -1,5 +1,5 @@
 ---
-title: Publications and Presentations
+title:  
 feature_text: |
     ### <span style='color: #e8dfe4;'>  Selected publications and presentations </span>
 feature_image: /assets/images/header_3.jpeg
