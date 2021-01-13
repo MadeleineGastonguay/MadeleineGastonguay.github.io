@@ -2,7 +2,7 @@
 title: Projects
 feature_text: |
  Learn about my past and present work 
-feature_image: assets/images/header_2.jpeg
+feature_image: /assets/images/header_2.jpeg
 excerpt: "Learn about my past and present work" 
 aside: true
 ---
