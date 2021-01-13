@@ -6,16 +6,16 @@ styles: true
 @import "alembic";
 
 // Background colours
-$backgroundColour: #ffffff;
-$codeBackgroundColour: #fafafa;
-$featureBackgroundColour: #f9fafa;
-$accentColour: #a005bf;
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #a005bf !default;
 
 // Text colours
-$headingColour: #242e2b;
-$bodyColour: #473840;
-$linkColour: #a005bf;
-$hoverColour: #7e0596;
-$focusColour: #a005bf;
-$captionColour: #c0b4c2;
+$headingColour: #242e2b !default;
+$bodyColour: #473840 !default;
+$linkColour: #a005bf !default;
+$hoverColour: #7e0596 !default;
+$focusColour: #a005bf !default;
+$captionColour: #c0b4c2 !default;
 
