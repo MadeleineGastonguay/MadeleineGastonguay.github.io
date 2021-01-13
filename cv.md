@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: CV
 feature_text: |
   ### Curriculum Vitae
 feature_image: /assets/images/header_4.jpeg 
