@@ -1,7 +1,7 @@
 ---
 title: CV
 feature_text: |
-  <span style='color: #e8dfe4;'> ### Curriculum Vitae </span>
+  ### <span style='color: #e8dfe4;'> Curriculum Vitae </span>
 feature_image: /assets/images/header_4.jpeg 
 excerpt: "Curriculum Vitae"
 aside: true
