@@ -6,7 +6,7 @@ excerpt: "Curriculum Vitae"
 aside: false
 ---
 
-{% include button.html text="Click to Download"  <a href="/files/Gastonguay_Madeleine_CV.pdf" target="_blank">%}
+
 
 <a href="/files/Gastonguay_Madeleine_CV.pdf" target="_blank"> Click to open in separate tab </a>
 
