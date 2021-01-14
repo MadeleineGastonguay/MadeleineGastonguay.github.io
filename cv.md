@@ -6,5 +6,13 @@ excerpt: "Curriculum Vitae"
 aside: false
 ---
 
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 
 <iframe src="/files/Gastonguay_Madeleine_CV.pdf" style="width:1200px; height:1200px; margin-left:auto; margin-right:auto;" frameborder="0"></iframe>
