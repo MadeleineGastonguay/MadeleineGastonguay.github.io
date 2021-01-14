@@ -143,7 +143,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter:  https://twitter.com/MS_Gastonguay
   LinkedIn: https://www.linkedin.com/in/madeleine-gastonguay
   GitHub: https://github.com/MadeleineGastonguay
-  email: "mailto:madeleine.gastonguay@uconn.edu"
+  email: < a href="mailto:madeleine.gastonguay@uconn.edu">
   googlescholar: https://scholar.google.com/citations?user=QUNFVHkAAAAJ&hl=en&oi=ao
 
 
