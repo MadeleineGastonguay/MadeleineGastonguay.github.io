@@ -136,8 +136,8 @@ navigation_header:
 
 
 navigation_footer:
-- title: Created and Maintained by Madeleine S Gastonguay
-  url: https://MadeleineGastonguay.github.io
+#- title: Created and Maintained by Madeleine S Gastonguay
+#  url: https://MadeleineGastonguay.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter:  https://twitter.com/MS_Gastonguay
