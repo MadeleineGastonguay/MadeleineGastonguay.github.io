@@ -7,6 +7,21 @@ aside: false
 ---
 
 
+
+<div class="gallery">
+  <a data-fancybox="gallery-gallery" href="/assets/images/fishing.png" >
+  <img data-src="/assets/images/fishing.png" class="lazyload" alt="" width="190" height="190">
+  </a>
+  
+  
+    
+  <a data-fancybox="gallery-gallery" href="/assets/images/hiking.png" >
+  <img data-src="/assets/images/hiking.png" class="lazyload" alt="" width="285" height="190">
+  </a>
+  
+</div>
+
+
 # Presentations
 
 ### Joint Meeting in Mathematics 2020
