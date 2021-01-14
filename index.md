@@ -1,7 +1,7 @@
 ---
 title: About Me
 feature_text: |
-  # <span style='color: #e8dfe4;'>  Madeleine S Gastonguay </span>
+  # Madeleine S Gastonguay
   ### <span style='color: #e8dfe4;'> An aspiring quantitative systems biologist, geneticist, and/or pharmacologist </span>
 feature_image: /assets/images/header.jpeg
 excerpt: "Not sure what to put here."
