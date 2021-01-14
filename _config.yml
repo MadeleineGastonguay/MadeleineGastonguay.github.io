@@ -136,15 +136,15 @@ navigation_header:
 
 
 navigation_footer:
-#- title: Created and Maintained by Madeleine S Gastonguay
-#  url: https://MadeleineGastonguay.github.io
+- title: Created and Maintained by Madeleine S Gastonguay
+  url: https://MadeleineGastonguay.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter:  https://twitter.com/MS_Gastonguay
   LinkedIn: https://www.linkedin.com/in/madeleine-gastonguay
   GitHub: https://github.com/MadeleineGastonguay
   GoogleScholar: https://scholar.google.com/citations?user=QUNFVHkAAAAJ&hl=en&oi=ao
- 
+
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
   facebook: "#3B5998"
