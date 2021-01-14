@@ -10,33 +10,32 @@ aside: true
 # Presentations
 
 ### Joint Meeting in Mathematics 2020
-![JMM](assets/images/JMM.jpeg)
+<img align="left" src= "assets/images/JMM.jpeg" width="50%">
 
 Outside the Denver convention center getting some moral support from my brother.
 
 ### R/Pharma August 2019
-![R/pharma](assets/images/Rinpharma.jpg)
+<img align="right" src= "assets/images/Rinpharma.jpg" width="50%">
 
 Presenting work from my summer internship with Metrum Research Group at R/Pharma in Cambridge, MA.
 
 ### International Society of Pharmacometrics Regional QSP Day July 2019
-![QSP](assets/images/QSP.jpg)
+<img align="left" src= "assets/images/QSP.jpg" width="50%">
 
 Presenting a poster from my summer internship with Metrum Research Group at IsOP regional QSP day.
 
 ### UConn Frontiers April 2019
-![frontiers](assets/images/frontiers.png)
+<img align="right" src= "assets/images/frontiers.png" width="50%">
 
 Presenting a poster from my summer internship with Metrum Research Group at UConn's spring frontier poster session.
 
 # Acadia National Park
-
-![Fishing](assets/images/fishing.png)
+<img align="left" src= "assets/images/fishing.png" width="50%">
 
 Catch of the day!
 
-![Hiking](assets/images/hiking.png)
+<img align="right" src= "assets/images/hiking.png" width="50%">
 The summit of Pemetic mountain.
 
-![Kayaking](assets/images/kayaking.png)
+<img align="left" src= "assets/images/kayaking.png" width="50%">
 Kayaking with seals on Somes Sound.
