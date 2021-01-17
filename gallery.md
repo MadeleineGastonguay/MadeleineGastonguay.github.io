@@ -5,7 +5,6 @@ feature_image: /assets/images/header_5.jpeg
 aside: false
 ---
 
-
 # Presentations
 
 ### Joint Meeting in Mathematics 2020
@@ -18,10 +17,10 @@ Outside the Denver convention center getting some moral support from my brother.
 
 Presenting work from my summer internship with Metrum Research Group at R/Pharma in Cambridge, MA.
 
-### International Society of Pharmacometrics Regional QSP Day July 2019
+### ISoP Regional QSP Day July 2019
 <img  src= "/assets/images/QSP.jpg" width="50%">
 
-Presenting a poster from my summer internship with Metrum Research Group at IsOP regional QSP day.
+Presenting a poster from my summer internship with Metrum Research Group at the International Society of Pharmacometrics Regional Quantitative Systems Pharmacology day.
 
 ### UConn Frontiers April 2019
 <img src= "/assets/images/frontiers.png" width="50%">
@@ -37,4 +36,4 @@ Catch of the day!
 The summit of Pemetic mountain.
 
 <img  src= "/assets/images/kayaking.png" width="50%">
-Kayaking with seals on Somes Sound.
+Kayaking on Somes Sound.
